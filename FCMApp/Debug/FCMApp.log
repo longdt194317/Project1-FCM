@@ -1,3 +1,41 @@
-﻿  FCMAppDlg.cpp
-C:\Users\abc\source\repos\fcm\FCMApp\FCMAppDlg.cpp(300,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  FCMApp.vcxproj -> C:\Users\abc\source\repos\fcm\Debug\FCMApp.exe
+﻿  pch.cpp
+  Calculate.cpp
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(7,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(9,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(17,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(28,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(29,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(46,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(55,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Calculate.cpp(57,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FCMApp.cpp
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(60,33): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(60,33): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(60,33): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(89,3): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(89,3): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(89,3): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(90,3): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(90,3): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMApp.cpp(90,3): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+  FCMAppDlg.cpp
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(99,2): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(99,2): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(99,2): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(100,2): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(100,2): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(100,2): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(108,3): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(108,3): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(108,3): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(246,11): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(246,11): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(246,11): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(252,6): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(252,6): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(252,6): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\FCMAppDlg.cpp(300,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Memory.cpp
+  Generating Code...
+  LINK : C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Debug\FCMApp.exe not found or not built by the last incremental link; performing full link
+  FCMApp.vcxproj -> C:\Users\abc\Documents\Tài liệu\Bài tập lớn\Project 1\FCMApp\Debug\FCMApp.exe
