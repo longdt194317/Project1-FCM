@@ -1,0 +1,3 @@
+﻿  FCMAppDlg.cpp
+C:\Users\abc\source\repos\fcm\FCMApp\FCMAppDlg.cpp(300,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FCMApp.vcxproj -> C:\Users\abc\source\repos\fcm\Debug\FCMApp.exe
