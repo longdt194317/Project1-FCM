@@ -155,6 +155,32 @@ int main() {
 	E = new float[c + 1];
 	for (int i = 1; i <= c; i++)
 		E[i] = 0;
+	
+	//do DB
+	float DB = 0;
+	for (int i = 1; i <= c; i++) {
+		float ps[100];
+		for (int j = 2; j <= c; j++) {
+			if (i = !j) {
+				float tu[100];
+				float mau[100];
+				tu[j] = 1 / n*(E[i] + E[j]);
+				mau[j]= Dcluster(X, C, i, j, d);
+				
+				ps[j] = tu[j] / mau[j];
+			}
+		}
+		int max = ps[2];
+		for (int j = 2; j <= c; j++) {
+			if (i = !j) {
+				if (max < ps[j]) {
+					max = ps[j];
+				}
+			}
+		}
+		DB += max;
+	}
+	DB = DB / n;
 
 	//tinh ban kinh cac tam cum
 	for (int i = 1; i <= n; i++) {
